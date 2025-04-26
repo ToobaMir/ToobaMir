@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ToobaMir
-- 👀 I’m interested in the intersection of ML and Biology
+- 👀 I’m interested in the intersection of AI and Biology
 - 😄 Pronouns: she/her
 
 
