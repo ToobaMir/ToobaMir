@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ToobaMir
-- 👀 I’m interested in the intersection of AI and Biology
-- 😄 Pronouns: she/her
+- 🌼 Pronouns: she/her
+- 🌻 Bioinformatics major
+- 🌷 I’m interested in the intersection of AI and Biology
 
 
 <!---
