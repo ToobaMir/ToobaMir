@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @ToobaMir
-- 🌼 Pronouns: she/her
+- 🌼 Student Researcher
 - 🌷 I’m interested in the intersection of machine learning and healthcare
 
 
