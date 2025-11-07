@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ToobaMir
 - 🌼 Pronouns: she/her
-- 🌻 Bioinformatics major
 - 🌷 I’m interested in the intersection of machine learning and healthcare
 
 
